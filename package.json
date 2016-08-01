@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/siteslave/moph_basic_nodejs/issues"
   },
-  "homepage": "https://github.com/siteslave/moph_basic_nodejs#readme"
+  "homepage": "https://github.com/siteslave/moph_basic_nodejs#readme",
+  "dependencies": {
+    "moment": "^2.14.1"
+  },
+  "devDependencies": {
+    "fs-extra": "^0.30.0"
+  }
 }
